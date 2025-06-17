@@ -1,9 +1,5 @@
 
-# Project Title
-
-Customer Churn Prediction
-
-# Description
+# Customer Churn Prediction
 
 This project focuses on predicting customer churn using the Churn_Modelling.csv dataset. The goal is to identify customers who are likely to leave a bank, enabling proactive retention strategies.
 
